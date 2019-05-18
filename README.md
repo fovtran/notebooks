@@ -1,2 +1,8 @@
-few notebooks from diego
-will upload more as i get familiar with the 'environment'
+** General libraries notebook from Diego. 
+-----
+please support via the Ontology network.
+
+Wallet Address:
+AZMDSJLwaiuPfxNuQ4qXKniv7ZJC5onQba
+
+Thank you/
