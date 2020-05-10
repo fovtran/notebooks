@@ -1,8 +1,7 @@
-** General libraries notebook from Diego. 
------
-please support via the Ontology network.
+# General use notebook.
+----
 
-Wallet Address:
-AZMDSJLwaiuPfxNuQ4qXKniv7ZJC5onQba
 
-Thank you/
+#### Funding
+Patreon: https://www.patreon.com/moleculardynamics
+Wallet Address: AZMDSJLwaiuPfxNuQ4qXKniv7ZJC5onQba
